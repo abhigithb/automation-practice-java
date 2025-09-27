@@ -1,5 +1,5 @@
 # Automation Practice with Java 
-## 📚 Learning Philosophy
+## 📚 Learning Map
 
 This is a *continuous learning repository*, where you'll find a mix of foundational Java programs and scenario-based exercises. Whether you're revisiting basics or exploring real-world logic flows, each file is crafted to reinforce clarity, context, and confidence.
 
