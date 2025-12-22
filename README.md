@@ -16,7 +16,7 @@ This repository is a hands-on sandbox for practicing Java fundamentals and Selen
 
 - `src/` – Contains all Java source code  
   - `basic.datatype` – Demos for primitive types, operators, user input  
-  - `automation.tests` – *(Coming soon)* Selenium-based test cases  
+  - `automation.tests` – *(Coming soon)*
 - `.gitignore` – Excludes IDE and build artifacts
 
 ## 🚀 Getting Started
